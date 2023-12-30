@@ -140,6 +140,13 @@ ul#topnav li> ul > li{
     margin-top:0;
 }
 
+.pageitem h4 {
+    font-size:135%;
+    background-color:inherit;
+    color:#444;
+    margin-top:0;
+}
+
 .pageitem p {
     padding:0;
     margin:1em 0;
